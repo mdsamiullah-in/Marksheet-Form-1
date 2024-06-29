@@ -1,0 +1,6 @@
+Create two input fields. 
+First should be for net amount.
+Second should for mobile number.
+Implement a function to handle the data transfer over Wi-Fi.
+Track the amount of data available for transfer and limit the transfer accordingly.
+Ensure the transferred data can be used for any purpose on the receiving device.
