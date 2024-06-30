@@ -12,12 +12,10 @@ v*{
   
   
   .container{
-    width: 75%;
+    width: 80%;
     min-height: 100vh;
     background-color: white;
     margin: 0 auto;
-    border-right: 20px groove rgb(255, 0, 0);
-    border-left: 20px groove rgb(255, 0, 0);
     padding: 0 20px;
     overflow:  hidden;
     padding: 0 50px;
