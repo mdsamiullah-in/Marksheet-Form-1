@@ -7,7 +7,7 @@ v*{
   
   
   body{
-    background-color: #ddd;
+    background-color: #ffffff;
   }
   
   
@@ -30,6 +30,7 @@ v*{
     font-size: 30px;
     font-family: Arial;
     font-weight: 600;
+   color: orangered;
   }
   
   p{
@@ -135,6 +136,9 @@ v*{
     padding: 0 5px;
   }
   
+  #tagname{
+    color: rgb(197, 195, 195);
+  }
   
   
   
